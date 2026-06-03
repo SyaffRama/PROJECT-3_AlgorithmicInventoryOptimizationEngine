@@ -52,7 +52,9 @@ $$\text{Reorder Point} = \left(\frac{\text{Daily Demand}}{30} \times \text{Lead 
 * **Frozen Working Capital (The Capital Crunch Metric):** Flags when current stock breaches the target operational ceiling, multiplying the dead inventory units by their manufacturing unit cost: 
 $$\text{Frozen Capital} = \text{IF } \text{Current Stock} > 45 \text{ THEN } (\text{Current Stock} - 45) \times \text{Unit Cost} \text{ ELSE } 0$$ 
 
---- ## 📊 Key Findings & Executive Insights 
+--- 
+
+## 📊 Key Findings & Executive Insights 
 * **The Trapped Capital Footprint:** Across the regional supply network, thousands of dollars in liquid capital are actively trapped on warehouse shelves due to historically blind procurement habits. 
 * **Worst-Offending Regional Hub:** The primary bar chart visual instantly isolates specific regional hubs (such as Chicago and Houston) that represent the vast majority of the company's financial holding liabilities. 
 * **High-Risk Product Segments:** The category breakdown matrix reveals that specialized divisions (such as skincare or cosmetics) hold severely mismatched supply-to-demand balances compared to more predictable product lines, indicating over-purchasing by raw volume. 
