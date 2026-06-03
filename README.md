@@ -9,7 +9,7 @@ This project establishes an end-to-end data analytics and engineering pipeline t
 
 ## 📊 Visual Workspace & Executive Interface
 
-![Dashboard Executive Workspace](<img width="1184" height="664" alt="DASHBOARD" src="https://github.com/user-attachments/assets/e8f77eaf-1ee8-4446-8fa2-6362ea172ace" />.png)
+<img width="1184" height="664" alt="DASHBOARD" src="https://github.com/user-attachments/assets/e8f77eaf-1ee8-4446-8fa2-6362ea172ace" />
 *Figure 1.1: Comprehensive Executive View displaying Trapped Capital, Warehouse Performance Hierarchies, and the Live Procurement Action Ledger.*
 
 ---
