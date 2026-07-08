@@ -24,7 +24,7 @@ To resolve this data-scaling clash and establish automated network governance, a
 * **Capital Risk Logic:** Implemented dynamic tracking equations to isolate the precise financial volume of stagnant inventory:
   $$\text{Frozen Capital} = \text{IF } \text{Current Stock} > 45 \text{ THEN } (\text{Current Stock} - 45) \times \text{Unit Cost} \text{ ELSE } 0$$
 
-## 4. Quantifiable Impact / Results
+## 4. Impact / Results
 * **Capital Liberation:** Successfully isolated and exposed **$362,553.07** in non-value-adding, stagnant inventory holding liabilities across the supply network.
 * **Bottleneck Isolation:** Mapped financial liability to specific regional distribution points, identifying that **Chicago and Houston** carry the highest trapped capital risk.
 * **Segment Remediation:** Pinpointed specialized high-value manufacturing lines (**skincare and cosmetics**) as the root cause of systemic bulk over-purchasing behavior.
